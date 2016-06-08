@@ -1,0 +1,50 @@
+<resources>
+    2
+    <string name="app_name">MONTELIBANO</string>
+    3
+    <string name="iglesiaermita">IGLESIA ERMITA</string>
+    4
+    <string name="datosiglesia">Patrimonio Municipal, Construida en 1939, Reinahugurada por el nuncio Apostólico Ettore Balestrero en Febrero de 2014, Ubicada en la Calle 17 Carrera 4ta</string>
+    6
+    <string name="parquelacruz">PARQUE DE LA CRUZ</string>
+    7
+    <string name="datosparquelacruz">Antiguo parque Simon Bolivar, Ubicada en el centro de la ciudad, Lugar de influencia de servicios y comercio</string>
+    8
+    <string name="parqueecologico">PARQUE ECOLÓGICO</string>
+    9
+    <string name="datosparqueecologico">Hermoso paraje ubicado en la vía troncal hacia Cerro Matoso, Espacio para la recreación y aprendizaje en contacto y armonía con la naturaleza, cuenta con un gran lago en donde se pueden practicar deportes náuticos y pesca, atracciones de tipo agropecuario, restaurante de comidas típicas</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+
+    <string name="hoteles">HOTELES</string>
+    <string name="monare">HOTEL MONARE</string>
+    <string name="datosmonare">Dirección: carrera 5 #19-10, Barrio Centro, Telefono: (4)7721747, Correo: hotelmonare@hotmail.com </string>
+    <string name="betocca">HOTEL BETOCCA</string>
+    <string name="datosbetocca">Dirección: carrera 5 #14-106, Barrio Centro, Telefono: (4)7625497</string>
+    <string name="montelibanoplaza">HOTEL MONTELIBANO PLAZA</string>
+    <string name="datosmontelibanoplaza">Dirección: carrera 4 #19-60, Telefono: (4)7720280</string>
+    <string name="bares">BARES</string>
+    <string name="marianamen">MARIANAMEN BAR</string>
+    <string name="datosmarianamen">Dierección: calle 16 carrera 12, Barrio San Luis</string>
+    <string name="palmacaoba">PALMACAOBA BAR</string>
+    <string name="datospalmacaoba">Dirección: calle 18 carrera 13, Avenida los estudiantes, Barrio San Luis</string>
+    <string name="bluemoon">BLUE MOON BAR</string>
+    <string name="datosbluemoon">Dirección: calle 14 carrera 13, Avenida los estudiantes, Barrio Tierra Grata</string>
+    <string name="demografia">DEMOGRAFÍA</string>
+    <string name="datosdemografia">Población: 69277 Habitantes, Densidad de la población: 38.5/Km2</string>
+    <string name="diseñador">APLICACIÓN CREADA POR:</string>
+    <string name="datosdiseñador">FRANZ FONSECA VILLALOBOS, Cédula: 1066570790</string>
+    <string name="montelibano">MONTELIBANO</string>
+    <string name="bienvenidos">"BIENVENIDOS A LA CAPITAL NIQUELERA DE AMERICA"</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_iglesia">Map</string>
+
+
+    12
+
+
+    15
+</resources>

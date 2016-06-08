@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    3
+
+    4 	<color name="colorPrimary">#FF02405F</color>
+    5 	<color name="colorPrimaryDark">#FF02405F</color>
+    6 	<color name="colorAccent">#FFFFFF</color>
+    7 	<color name="dccomics">#FF02405F</color>
+    8
+
+    9 	<item name="black" type="color">#000000</item>
+    10 	<item name="navy" type="color">	#000080</item>
+    11 	<item name="darkblue" type="color">#00008b</item>
+    12 	<item name="mediumblue" type="color">#0000cd</item>
+    13 	<item name="blue" type="color">#0000ff</item>
+    14 	<item name="midnightblue" type="color">#191970</item>
+    15 	<item name="indigo" type="color">#4b0082</item>
+    16 	<item name="maroon" type="color">#800000</item>
+    17 	<item name="darkred" type="color">#8b0000</item>
+    18 	<item name="purple" type="color">#800080</item>
+    19 	<item name="darkgreen" type="color">#8b008b</item>
+    20 	<item name="darkmagenta" type="color">#9400d3</item>
+    21 	<item name="darkviolet" type="color">#006400</item>
+    22 	<item name="darkslategray" type="color">#2f4f4f</item>
+    23 	<item name="darkslateblue" type="color">#483d8b</item>
+    24 	<item name="green" type="color">#008000</item>
+    25 	<item name="red" type="color">#ff0000</item>
+    26 	<item name="firebrick" type="color">#b22222</item>
+    27 	<item name="brown" type="color">#a52a2a</item>
+    28 	<item name="saddlebrown" type="color">#8b4513</item>
+    29 	<item name="crimson" type="color">#dc143c</item>
+    30 	<item name="mediumvioletred" type="color">#c71585</item>
+    31 	<item name="teal" type="color">#008080</item>
+    32 	<item name="blueviolet" type="color">#8a2be2</item>
+    33 	<item name="darkolivegreen" type="color">#556b2f</item>
+    34 	<item name="forestgreen" type="color">#228b22</item>
+    35 	<item name="darkcyan" type="color">#008b8b</item>
+    36 	<item name="darkorchid" type="color">#9932cc</item>
+    37 	<item name="sienna" type="color">#a0522d</item>
+    38 	<item name="deeppink" type="color">#ff1493</item>
+    39 	<item name="dimgray" type="color">#696969</item>
+    40 	<item name="seagreen" type="color">#2e8b57</item>
+    41 	<item name="fuchsia" type="color">#ff00ff</item>
+    42 	<item name="royalblue" type="color">#4169e1</item>
+    43 	<item name="slateblue" type="color">#6a5acd</item>
+    44 	<item name="olive" type="color">#808000</item>
+    45 	<item name="orangered" type="color">#ff4500</item>
+    46 	<item name="steelblue" type="color">#4682b4</item>
+    47 	<item name="olivedrab" type="color">#6b8e23</item>
+    48 	<item name="dodgerblue" type="color">#1e90ff</item>
+    49 	<item name="mediumslateblue" type="color">#7b68ee</item>
+    50 	<item name="slategray" type="color">#708090</item>
+    51 	<item name="indianred" type="color">#cd5c5c</item>
+    52 	<item name="chocolate" type="color">#d2691e</item>
+    53 	<item name="gray" type="color">#808080</item>
+    54 	<item name="mediumorchid" type="color">#ba55d3</item>
+    55 	<item name="lightslategray" type="color">#778899</item>
+    56 	<item name="lightseagreen" type="color">#20b2aa</item>
+    57 	<item name="mediumpurple" type="color">#9370d8</item>
+    58 	<item name="darkgoldenrod" type="color">#b8860b</item>
+    59 	<item name="mediumseagreen" type="color">#3cb371</item>
+    60 	<item name="cadetblue" type="color">#5f9ea0</item>
+    61 	<item name="limegreen" type="color">#32cd32</item>
+    62 	<item name="deepskyblue" type="color">#00bfff</item>
+    63 	<item name="tomato" type="color">#ff6347</item>
+    64 	<item name="cornflowerblue" type="color">#6495ed</item>
+    65 	<item name="darkturquoise" type="color">#00ced1</item>
+    66 	<item name="peru" type="color">#cd853f</item>
+    67 	<item name="palevioletred" type="color">#d87093</item>
+    68 	<item name="lime" type="color">#00ff00</item>
+    69 	<item name="orchid" type="color">#da70d6</item>
+    70 	<item name="rosybrown" type="color">#bc8f8f</item>
+    71 	<item name="hotpink" type="color">#ff69b4</item>
+    72 	<item name="darkorange" type="color">#ff8c00</item>
+    73 	<item name="coral" type="color">#ff7f50</item>
+    74 	<item name="lightcoral" type="color">#f08080</item>
+    75 	<item name="salmon" type="color">#fa8072</item>
+    76 	<item name="springgreen" type="color">#00ff7f</item>
+    77 	<item name="mediumspringgreen" type="color">#00fa9a</item>
+    78 	<item name="goldenrod" type="color">#daa520</item>
+    79 	<item name="mediumturquoise" type="color">#48d1cc</item>
+    80 	<item name="darkgray" type="color">#a9a9a9</item>
+    81 	<item name="darkseagreen" type="color">#8fbc8f</item>
+    82 	<item name="mediumaquamarine" type="color">#66cdaa</item>
+    83 	<item name="darksalmon" type="color">#e9967a</item>
+    84 	<item name="yellowgreen" type="color">#9acd32</item>
+    85 	<item name="orange" type="color">#ffa500</item>
+    86 	<item name="turquoise" type="color">#40e0d0</item>
+    87 	<item name="violet" type="color">#ee82ee</item>
+    88 	<item name="darkkhaki" type="color">#bdb76b</item>
+    89 	<item name="aqua" type="color">#00ffff</item>
+    90 	<item name="sandybrown" type="color">#f4a460</item>
+    91 	<item name="lightsalmon" type="color">#ffa07a</item>
+    92 	<item name="tan" type="color">#d2b48c</item>
+    93 	<item name="lawngreen" type="color">#7cfc00</item>
+    94 	<item name="plum" type="color">#dda0dd</item>
+    95 	<item name="chartreuse" type="color">#7fff00</item>
+    96 	<item name="skyblue" type="color">#87ceeb</item>
+    97 	<item name="burlywood" type="color">#deb887</item>
+    98 	<item name="lightskyblue" type="color">#87cefa</item>
+    99 	<item name="silver" type="color">#c0c0c0</item>
+    100 	<item name="lightsteelblue" type="color">#b0c4de</item>
+    101 	<item name="lightgreen" type="color">#90ee90</item>
+    102 	<item name="thistle" type="color">#d8bfd8</item>
+    103 	<item name="gold" type="color">#ffd700</item>
+    104 	<item name="lightblue" type="color">#add8e6</item>
+    105 	<item name="lightpink" type="color">#ffb6c1</item>
+    106 	<item name="greenyellow" type="color">#adff2f</item>
+    107 	<item name="palegreen" type="color">#98fb98</item>
+    108 	<item name="powderblue" type="color">#b0e0e6</item>
+    109 	<item name="lightgray" type="color">#d3d3d3</item>
+    110 	<item name="aquamarine" type="color">#7fffd4</item>
+    111 	<item name="pink" type="color">#ffc0cb</item>
+    112 	<item name="paleturquoise" type="color">#afeeee</item>
+    113 	<item name="gainsboro" type="color">#dcdcdc</item>
+    114 	<item name="khaki" type="color">#f0e68c</item>
+    115 	<item name="wheat" type="color">#f5deb3</item>
+    116 	<item name="peachpuff" type="color">#ffdab9</item>
+    117 	<item name="yellow" type="color">#ffff00</item>
+    118 	<item name="navajowhite" type="color">#ffdead</item>
+    119 	<item name="palegoldenrod" type="color">#eee8aa</item>
+    120 	<item name="moccasin" type="color">#ffe4b5</item>
+    121 	<item name="lavender" type="color">#e6e6fa</item>
+    122 	<item name="bisque" type="color">#ffe4c4</item>
+    123 	<item name="mistyrose" type="color">#ffe4e1</item>
+    124 	<item name="antiquewhite" type="color">#faebd7</item>
+    125 	<item name="blanchedalmond" type="color">#ffebcd</item>
+    126 	<item name="papayawhip" type="color">#ffefd5</item>
+    127 	<item name="linen" type="color">#faf0e6</item>
+    128 	<item name="beige" type="color">#f5f5dc</item>
+    129 	<item name="whitesmoke" type="color">#f5f5f5</item>
+    130 	<item name="lavenderblush" type="color">#fff0f5</item>
+    131 	<item name="lightgoldenrodyellow" type="color">#fafad2</item>
+    132 	<item name="oldlace" type="color">#fdf5e6</item>
+    133 	<item name="lightcyan" type="color">#e0ffff</item>
+    134 	<item name="lemonchiffon" type="color">#fffacd</item>
+    135 	<item name="aliceblue" type="color">#f0f8ff</item>
+    136 	<item name="cornsilk" type="color">#fff8dc</item>
+    137 	<item name="seashell" type="color">#fff5ee</item>
+    138 	<item name="ghostwhite" type="color">#f8f8ff</item>
+    139 	<item name="honeydew" type="color">#f0fff0</item>
+    140 	<item name="floralwhite" type="color">#fffaf0</item>
+    141 	<item name="azure" type="color">#f0ffff</item>
+    142 	<item name="mintcream" type="color">#f5fffa</item>
+    143 	<item name="lightyellow" type="color">#ffffe0</item>
+    144 	<item name="snow" type="color">#fffafa</item>
+    145 	<item name="ivory" type="color">#fffff0</item>
+    146 	<item name="white" type="color">#ffffff</item>
+    147
+    148
+    149 	<integer-array name="EditColors">
+    150
+    151 	    <item>@color/black</item>
+    152 		<item>@color/navy</item>
+    153 		<item>@color/darkblue</item>
+    154 		<item>@color/mediumblue</item>
+    155 		<item>@color/blue</item>
+    156 		<item>@color/midnightblue</item>
+    157 		<item>@color/indigo</item>
+    158 		<item>@color/maroon</item>
+    159 		<item>@color/darkred</item>
+    160 		<item>@color/purple</item>
+    161 		<item>@color/darkgreen</item>
+    162 		<item>@color/darkmagenta</item>
+    163 		<item>@color/darkviolet</item>
+    164 		<item>@color/darkslategray</item>
+    165 		<item>@color/darkslateblue </item>
+    166 		<item>@color/green </item>
+    167 		<item>@color/red </item>
+    168 		<item>@color/firebrick </item>
+    169 		<item>@color/brown </item>
+    170 		<item>@color/saddlebrown </item>
+    171 		<item>@color/crimson </item>
+    172 		<item>@color/mediumvioletred </item>
+    173 		<item>@color/teal </item>
+    174 		<item>@color/blueviolet </item>
+    175 		<item>@color/darkolivegreen </item>
+    176 		<item>@color/forestgreen </item>
+    177 		<item>@color/darkcyan </item>
+    178 		<item>@color/darkorchid </item>
+    179 		<item>@color/sienna </item>
+    180 		<item>@color/deeppink </item>
+    181 		<item>@color/dimgray </item>
+    182 		<item>@color/seagreen </item>
+    183 		<item>@color/fuchsia </item>
+    184 		<item>@color/royalblue </item>
+    185 		<item>@color/slateblue </item>
+    186 		<item>@color/olive </item>
+    187 		<item>@color/orangered </item>
+    188 		<item>@color/steelblue </item>
+    189 		<item>@color/olivedrab </item>
+    190 		<item>@color/dodgerblue </item>
+    191 		<item>@color/mediumslateblue </item>
+    192 		<item>@color/slategray </item>
+    193 		<item>@color/indianred </item>
+    194 		<item>@color/chocolate </item>
+    195 		<item>@color/gray </item>
+    196 		<item>@color/mediumorchid </item>
+    197 		<item>@color/lightslategray </item>
+    198 		<item>@color/lightseagreen </item>
+    199 		<item>@color/mediumpurple </item>
+    200 		<item>@color/darkgoldenrod </item>
+    201 		<item>@color/mediumseagreen </item>
+    202 		<item>@color/cadetblue </item>
+    203 		<item>@color/limegreen </item>
+    204 		<item>@color/deepskyblue </item>
+    205 		<item>@color/tomato </item>
+    206 		<item>@color/cornflowerblue </item>
+    207 		<item>@color/darkturquoise </item>
+    208 		<item>@color/peru </item>
+    209 		<item>@color/palevioletred </item>
+    210 		<item>@color/lime </item>
+    211 		<item>@color/orchid </item>
+    212 		<item>@color/rosybrown </item>
+    213 		<item>@color/hotpink </item>
+    214 		<item>@color/darkorange </item>
+    215 		<item>@color/coral </item>
+    216 		<item>@color/lightcoral </item>
+    217 		<item>@color/salmon </item>
+    218 		<item>@color/springgreen </item>
+    219 		<item>@color/mediumspringgreen </item>
+    220 		<item>@color/goldenrod </item>
+    221 		<item>@color/mediumturquoise </item>
+    222 		<item>@color/darkgray </item>
+    223 		<item>@color/darkseagreen </item>
+    224 		<item>@color/mediumaquamarine </item>
+    225 		<item>@color/darksalmon </item>
+    226 		<item>@color/yellowgreen </item>
+    227 		<item>@color/orange </item>
+    228 		<item>@color/turquoise </item>
+    229 		<item>@color/violet </item>
+    230 		<item>@color/darkkhaki </item>
+    231 		<item>@color/aqua </item>
+    232 		<item>@color/sandybrown </item>
+    233 		<item>@color/lightsalmon </item>
+    234 		<item>@color/tan </item>
+    235 		<item>@color/lawngreen </item>
+    236 		<item>@color/plum </item>
+    237 		<item>@color/chartreuse </item>
+    238 		<item>@color/skyblue </item>
+    239 		<item>@color/burlywood </item>
+    240 		<item>@color/lightskyblue </item>
+    241 		<item>@color/silver </item>
+    242 		<item>@color/lightsteelblue </item>
+    243 		<item>@color/lightgreen </item>
+    244 		<item>@color/thistle </item>
+    245 		<item>@color/gold </item>
+    246 		<item>@color/lightblue </item>
+    247 		<item>@color/lightpink </item>
+    248 		<item>@color/greenyellow </item>
+    249 		<item>@color/palegreen </item>
+    250 		<item>@color/powderblue </item>
+    251 		<item>@color/lightgray </item>
+    252 		<item>@color/aquamarine </item>
+    253 		<item>@color/pink </item>
+    254 		<item>@color/paleturquoise </item>
+    255 		<item>@color/gainsboro </item>
+    256 		<item>@color/khaki </item>
+    257 		<item>@color/wheat </item>
+    258 		<item>@color/peachpuff </item>
+    259 		<item>@color/yellow </item>
+    260 		<item>@color/navajowhite </item>
+    261 		<item>@color/palegoldenrod </item>
+    262 		<item>@color/moccasin </item>
+    263 		<item>@color/lavender </item>
+    264 		<item>@color/bisque </item>
+    265 		<item>@color/mistyrose </item>
+    266 		<item>@color/antiquewhite </item>
+    267 		<item>@color/blanchedalmond </item>
+    268 		<item>@color/papayawhip </item>
+    269 		<item>@color/linen </item>
+    270 		<item>@color/beige </item>
+    271 		<item>@color/whitesmoke </item>
+    272 		<item>@color/lavenderblush </item>
+    273 		<item>@color/lightgoldenrodyellow </item>
+    274 		<item>@color/oldlace </item>
+    275 		<item>@color/lightcyan </item>
+    276 		<item>@color/lemonchiffon </item>
+    277 		<item>@color/aliceblue </item>
+    278 		<item>@color/cornsilk </item>
+    279 		<item>@color/seashell </item>
+    280 		<item>@color/ghostwhite </item>
+    281 		<item>@color/honeydew </item>
+    282 		<item>@color/floralwhite </item>
+    283 		<item>@color/azure </item>
+    284 		<item>@color/mintcream </item>
+    285 		<item>@color/lightyellow </item>
+    286 		<item>@color/snow </item>
+    287 		<item>@color/ivory </item>
+    288 		<item>@color/white </item>
+    289 	</integer-array>
+    290
+    291 </resources>
+

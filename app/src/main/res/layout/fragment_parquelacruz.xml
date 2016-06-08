@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mainactivity.franzfonseca.com.colombia_turistica_final.ParquelacruzFragment">
+
+
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text = "@string/parquelacruz"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/parquelacruz"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/datosparquelacruz"/>
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapview"
+            android:layout_width="340dp"
+            android:layout_height="140dp" />
+    </LinearLayout>
+
+</FrameLayout>

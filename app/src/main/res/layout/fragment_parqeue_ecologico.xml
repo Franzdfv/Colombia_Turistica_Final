@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mainactivity.franzfonseca.com.colombia_turistica_final.ParqeueEcologicoFragment">
+
+
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text = "@string/parqueecologico"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/parqueecolgico"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/datosparqueecologico"/>
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapview"
+            android:layout_width="340dp"
+            android:layout_height="140dp" />
+    </LinearLayout>
+
+
+</FrameLayout>

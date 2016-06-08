@@ -1,0 +1,51 @@
+<resources>
+    2
+
+    3     <!-- Base application theme. -->
+    4     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    5         <!-- Customize your theme here. -->
+    6         <item name="colorPrimary">@color/green</item>
+    7         <item name="colorPrimaryDark">@color/green</item>
+    8         <item name="colorAccent">@color/red</item>
+
+    9     </style>
+    10
+
+    11     <style name="linearLayoutStyle" parent="@android:style/Theme">
+    12         <item name="android:layout_width">match_parent</item>
+    13         <item name="android:layout_height">match_parent</item>
+    14         <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
+    15         <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+    16         <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+    17         <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+    18         <item name="android:orientation">vertical</item>
+    19         <item name="android:background">@color/darkgray</item>
+    20     </style>
+    21
+
+    22     <style name="textViewStyle" parent = "@android:style/TextAppearance">
+    23         <item name="android:layout_width">match_parent</item>
+    24         <item name="android:layout_height">wrap_content</item>
+    25         <item name="android:textColor">@color/black</item>
+    26         <item name="android:gravity">center</item>
+    27     </style>
+    28
+
+    29     <style name="textViewStyle.Title">
+    30         <item name="android:textSize">30sp</item>
+    31     </style>
+    32
+
+    33     <style name="textViewStyle.Content">
+    34         <item name="android:textSize">20sp</item>
+    35     </style>
+    36
+
+    37     <style name="imageViewStyle" parent="@android:style/Theme">
+    38         <item name="android:layout_width">200dp</item>
+    39         <item name="android:layout_height">200dp</item>
+    40         <item name="android:layout_gravity">center</item>
+    41     </style>
+    42
+
+    43 </resources>
